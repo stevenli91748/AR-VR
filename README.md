@@ -1,6 +1,6 @@
 # 在线书籍
 
-* [全景漫游（英文：panorama）技术](https://www.kancloud.cn/wang11535041/test/355594)
+* [全景漫游（英文：panorama）---Krpano全景漫游开发手册](https://www.kancloud.cn/wang11535041/test/355594)
 
 
 # 参考
