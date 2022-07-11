@@ -4,6 +4,9 @@
 * [Unity AR/VR开发：从新手到专家](https://weread.qq.com/web/reader/0b4321c05e12dd0b47a303b)
 * [全景漫游（英文：panorama）---Krpano全景漫游开发手册](https://www.kancloud.cn/wang11535041/test/355594)
 * [智能+：AR、VR、AI、IW正在颠覆每个行业的新商业浪潮](https://weread.qq.com/web/reader/240323e07275ffea2406ded)
+* [正在发生的AR（增强现实）革命：完全案例+深度分析+趋势预测](https://weread.qq.com/web/reader/56a323b0717d31d556aa637)
+
+
 
 # 视频
 * [了解AR必看！一个视频教你看懂如何选择AR技术？](https://www.youtube.com/watch?v=1DyZZGgorOU&list=PLtrNN7e8tW0fzUqOFYCindiqNFvkDS3zK)
