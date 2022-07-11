@@ -1,6 +1,7 @@
 # 在线书籍
 * [下一代空间计算：AR与VR创新理论与实践](https://weread.qq.com/web/reader/7ac3221072096ac27ac9937)
 * [Unity AR/VR开发：实战高手训练营](https://weread.qq.com/web/bookDetail/394328a072599d78394dc51)
+* [Unity AR/VR开发：从新手到专家](https://weread.qq.com/web/reader/0b4321c05e12dd0b47a303b)
 * [全景漫游（英文：panorama）---Krpano全景漫游开发手册](https://www.kancloud.cn/wang11535041/test/355594)
 
 
